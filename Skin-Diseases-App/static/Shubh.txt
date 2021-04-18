@@ -1,0 +1,1 @@
+This is way to render static file..... server/static/Shubh.txt
